@@ -1,0 +1,14 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,org/videolan/medialibrary/media/Album,JNI_OnLoad,Album,org.videolan.medialibrary.media,medialibrary/src/org/videolan/medialibrary/media/Album.java,Album.java
+CS2,JNINonPublicFie,org/videolan/medialibrary/media/MediaWrapper,JNI_OnLoad,MediaWrapper,org.videolan.medialibrary.media,medialibrary/src/org/videolan/medialibrary/media/MediaWrapper.java,MediaWrapper.java
+CS3,JNINonPublicFie,org/videolan/libvlc/Dialog,JNI_OnLoad,Dialog,org.videolan.libvlc,libvlc/src/org/videolan/libvlc/Dialog.java,Dialog.java
+CS4,JNINonPublicFie,org/videolan/medialibrary/media/SearchAggregate,JNI_OnLoad,SearchAggregate,org.videolan.medialibrary.media,medialibrary/src/org/videolan/medialibrary/media/SearchAggregate.java,SearchAggregate.java
+CS5,JNINonPublicFie,org/videolan/libvlc/VLCObject,JNI_OnLoad,VLCObject,org.videolan.libvlc,libvlc/src/org/videolan/libvlc/VLCObject.java,VLCObject.java
+CS6,JNINonPublicFie,org/videolan/medialibrary/media/HistoryItem,JNI_OnLoad,HistoryItem,org.videolan.medialibrary.media,medialibrary/src/org/videolan/medialibrary/media/HistoryItem.java,HistoryItem.java
+CS7,JNINonPublicFie,org/videolan/medialibrary/media/Artist,JNI_OnLoad,Artist,org.videolan.medialibrary.media,medialibrary/src/org/videolan/medialibrary/media/Artist.java,Artist.java
+CS8,JNINonPublicFie,org/videolan/libvlc/MediaDiscoverer,JNI_OnLoad,MediaDiscoverer,org.videolan.libvlc,libvlc/src/org/videolan/libvlc/MediaDiscoverer.java,MediaDiscoverer.java
+CS9,JNINonPublicFie,org/videolan/libvlc/Media,JNI_OnLoad,Media,org.videolan.libvlc,libvlc/src/org/videolan/libvlc/Media.java,Media.java
+CS10,JNINonPublicFie,org/videolan/libvlc/MediaPlayer,JNI_OnLoad,MediaPlayer,org.videolan.libvlc,libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS11,JNINonPublicFie,org/videolan/medialibrary/media/MediaSearchAggregate,JNI_OnLoad,MediaSearchAggregate,org.videolan.medialibrary.media,medialibrary/src/org/videolan/medialibrary/media/MediaSearchAggregate.java,MediaSearchAggregate.java
+CS12,JNINonPublicFie,org/videolan/medialibrary/media/Genre,JNI_OnLoad,Genre,org.videolan.medialibrary.media,medialibrary/src/org/videolan/medialibrary/media/Genre.java,Genre.java
+CS13,JNINonPublicFie,org/videolan/medialibrary/media/Playlist,JNI_OnLoad,Playlist,org.videolan.medialibrary.media,medialibrary/src/org/videolan/medialibrary/media/Playlist.java,Playlist.java

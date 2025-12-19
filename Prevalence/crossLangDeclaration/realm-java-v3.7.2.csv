@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,crossLangDe,,getMaxExceptionNumber,TestUtil,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/TestUtil.java,TestUtil.java
+CS2,crossLangDe,,nativeGetRowPtr,Table,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/Table.java,Table.java
+CS3,crossLangDe,,nativeInitializeSyncManager,SyncManager,io.realm,realm/realm-library/src/objectServer/java/io/realm/SyncManager.java,SyncManager.java
+CS4,crossLangDe,,nativeCreateCoreLoggerBridge,RealmLog,io.realm.log,realm/realm-library/src/main/java/io/realm/log/RealmLog.java,RealmLog.java

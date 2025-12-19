@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,org/sosy_lab/solver/z3/Z3SolverException,Z3JavaErrorHandler,Z3SolverException,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3SolverException.java,Z3SolverException.java

@@ -1,0 +1,3 @@
+buggy_file_path,fix_commit_hash,fix_date,buggy_commit_hash,buggy_date,fix_message
+src/main/java/monero/wallet/MoneroWalletRpc.java,851a7514edc0bec7779f51f34d3aef3b7583f55b,2025-10-11 11:52:50-04:00,a8769e291fc62178510224d0782fbbb7393b383e,2023-07-24 17:52:35-04:00,Fix MoneroWalletRpc.handleCreateWalletError (#127)
+src/test/java/TestMoneroDaemonRpc.java,f4d2543c7394a35b6f1e669b474d8107addfd257,2025-10-14 07:31:39-04:00,edd88f885343099d10fba0885dc2dda453447723,2019-03-01 23:43:49-05:00,test block template expects seed height >= 0

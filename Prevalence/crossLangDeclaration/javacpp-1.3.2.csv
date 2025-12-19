@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,crossLangDe,,totalProcessors,Loader,org.bytedeco.javacpp,src/main/java/org/bytedeco/javacpp/Loader.java,Loader.java
+CS2,crossLangDe,,physicalBytes,Pointer,org.bytedeco.javacpp,src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java

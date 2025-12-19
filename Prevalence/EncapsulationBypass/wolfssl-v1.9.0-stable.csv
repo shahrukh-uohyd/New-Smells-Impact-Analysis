@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,com/wolfssl/WolfSSLSession,Java_com_wolfssl_WolfSSLSession_setFd,WolfSSLSession,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.9.0-stable/src/java/com/wolfssl/WolfSSLSession.java,WolfSSLSession.java
+CS2,JNINonPublicFie,com/wolfssl/wolfcrypt/EccKey,NativeEccSharedSecretCb,EccKey,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.9.0-stable/src/java/com/wolfssl/wolfcrypt/EccKey.java,EccKey.java

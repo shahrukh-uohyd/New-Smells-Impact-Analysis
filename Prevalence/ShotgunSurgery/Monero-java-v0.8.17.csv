@@ -1,0 +1,11 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotg,"(JLjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;Z)V",on_output_spent,,,/home/shahrukh/smellDetection/Detection/revision projects/Monero-java/v0.8.17/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS2,Shotg,"(J)V",Java_monero_wallet_MoneroWalletFull_syncJni,,,/home/shahrukh/smellDetection/Detection/revision projects/Monero-java/v0.8.17/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS3,Shotg,"monero/wallet/MoneroWalletFull$WalletJniListener",JNI_OnLoad,,,/home/shahrukh/smellDetection/Detection/revision projects/Monero-java/v0.8.17/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS4,Shotg,"(J)V",on_new_block,,,/home/shahrukh/smellDetection/Detection/revision projects/Monero-java/v0.8.17/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS5,Shotg,"(JLjava/lang/String;Ljava/lang/String;IIILjava/lang/String;Z)V",on_output_received,,,/home/shahrukh/smellDetection/Detection/revision projects/Monero-java/v0.8.17/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS6,Shotg,"(Ljava/lang/String;)[B",jstring2string,,,/home/shahrukh/smellDetection/Detection/revision projects/Monero-java/v0.8.17/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS7,Shotg,"(Ljava/lang/String;Ljava/lang/String;)V",on_balances_changed,,,/home/shahrukh/smellDetection/Detection/revision projects/Monero-java/v0.8.17/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS8,Shotg,"(Z)V",Java_monero_wallet_MoneroWalletFull_syncJni,,,/home/shahrukh/smellDetection/Detection/revision projects/Monero-java/v0.8.17/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS9,Shotg,"()Ljava/lang/String;",rethrow_java_exception_as_cpp_exception,,,/home/shahrukh/smellDetection/Detection/revision projects/Monero-java/v0.8.17/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS10,Shotg,"(JJJDLjava/lang/String;)V",on_sync_progress,,,/home/shahrukh/smellDetection/Detection/revision projects/Monero-java/v0.8.17/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp

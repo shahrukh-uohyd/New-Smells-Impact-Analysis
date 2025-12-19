@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Lan,,ensureAutocommit,DB,org.sqlite.core,/home/shahrukh/smellDetection/Detection/revision projects/sqlite/3.49.0.0/src/main/java/org/sqlite/core/DB.java,DB.java
+CS2,Lan,,sqlbind,DB,org.sqlite.core,/home/shahrukh/smellDetection/Detection/revision projects/sqlite/3.49.0.0/src/main/java/org/sqlite/core/DB.java,DB.java

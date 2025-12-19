@@ -1,0 +1,29 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Lan,,goalToAST,Z3NativeApiHelpers,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3NativeApiHelpers.java,Z3NativeApiHelpers.java
+CS2,Lan,,createEnvironment,Mathsat5NativeApiTest0,org.sosy_lab.solver.mathsat5,java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,Mathsat5NativeApiTest0.java
+CS3,Lan,,ifThenElse,Mathsat5BooleanFormulaManager,org.sosy_lab.solver.mathsat5,java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5BooleanFormulaManager.java,Mathsat5BooleanFormulaManager.java
+CS4,Lan,,addConstraint,Z3InterpolatingProver,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3InterpolatingProver.java,Z3InterpolatingProver.java
+CS5,Lan,,close,Mathsat5AbstractProver<T2>,org.sosy_lab.solver.mathsat5,java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5AbstractProver.java,Mathsat5AbstractProver.java
+CS6,Lan,,getName,Z3FormulaCreator,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3FormulaCreator.java,Z3FormulaCreator.java
+CS7,Lan,,isOP,Z3NativeApiConstants,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3NativeApiConstants.java,Z3NativeApiConstants.java
+CS8,Lan,,splitNumeralEqualityIfPossible,Mathsat5FormulaManager,org.sosy_lab.solver.mathsat5,java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaManager.java,Mathsat5FormulaManager.java
+CS9,Lan,,select,Z3ArrayFormulaManager,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3ArrayFormulaManager.java,Z3ArrayFormulaManager.java
+CS10,Lan,,setParam,Z3OptimizationProver,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3OptimizationProver.java,Z3OptimizationProver.java
+CS11,Lan,,getDeclarationKind,Z3FormulaCreator,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3FormulaCreator.java,Z3FormulaCreator.java
+CS12,Lan,,creator,Z3InterpolatingProver,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3InterpolatingProver.java,Z3InterpolatingProver.java
+CS13,Lan,,getUnsatCore,Z3TheoremProver,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3TheoremProver.java,Z3TheoremProver.java
+CS14,Lan,,splitNumeralEqualityIfPossible,Z3FormulaManager,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3FormulaManager.java,Z3FormulaManager.java
+CS15,Lan,,applyResultToAST,Z3NativeApiHelpers,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3NativeApiHelpers.java,Z3NativeApiHelpers.java
+CS16,Lan,,declareUninterpretedFunctionImpl,Z3FunctionFormulaManager,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3FunctionFormulaManager.java,Z3FunctionFormulaManager.java
+CS17,Lan,,applyTactic,Z3NativeApiHelpers,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3NativeApiHelpers.java,Z3NativeApiHelpers.java
+CS18,Lan,,create,Z3SolverContext,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3SolverContext.java,Z3SolverContext.java
+CS19,Lan,,creator,Z3TheoremProver,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3TheoremProver.java,Z3TheoremProver.java
+CS20,Lan,,getFormulaTypeFromTermType,Mathsat5FormulaCreator,org.sosy_lab.solver.mathsat5,java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS21,Lan,,getDeclarationKind,Mathsat5FormulaCreator,org.sosy_lab.solver.mathsat5,java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS22,Lan,,modularCongruence,Mathsat5NativeApiTest0,org.sosy_lab.solver.mathsat5,java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,Mathsat5NativeApiTest0.java
+CS23,Lan,,msatEnv,Mathsat5FormulaCreator,org.sosy_lab.solver.mathsat5,java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS24,Lan,,getModel,Mathsat5OptimizationProver,org.sosy_lab.solver.mathsat5,java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5OptimizationProver.java,Mathsat5OptimizationProver.java
+CS25,Lan,,bvSize,Mathsat5NativeApiTest0,org.sosy_lab.solver.mathsat5,java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,Mathsat5NativeApiTest0.java
+CS26,Lan,,next,Z3Model,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3Model.java,Z3Model.java
+CS27,Lan,,negate,Z3NumeralFormulaManager<,,nan,
+        ParamFormulaType extends NumeralFormula, ResultFormulaType extends NumeralFormula>,org.sosy_lab.solver.z3,/home/shahrukh/smellDetection/Detection/cloned_abidi/Remaining Abidi Projects/java-smt-0.3 (2)/java-smt-0.3/src/org/sosy_lab/solver/z3/Z3NumeralFormulaManager.java,Z3NumeralFormulaManager.java,,nan,

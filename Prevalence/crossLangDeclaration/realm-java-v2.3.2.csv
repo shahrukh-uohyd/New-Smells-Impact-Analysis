@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,crossLangDe,,nativeConfigureMetaDataSystem,SyncManager,io.realm,realm/realm-library/src/objectServer/java/io/realm/SyncManager.java,SyncManager.java
+CS2,crossLangDe,,nativeResetForTesting,RealmFileUserStore,io.realm,realm/realm-library/src/objectServer/java/io/realm/RealmFileUserStore.java,RealmFileUserStore.java
+CS3,crossLangDe,,getMaxExceptionNumber,TestUtil,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/TestUtil.java,TestUtil.java
+CS4,crossLangDe,,nativeGetRow,LinkView,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/LinkView.java,LinkView.java
+CS5,crossLangDe,,nativeCloseQueryHandover,TableQuery,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/TableQuery.java,TableQuery.java
+CS6,crossLangDe,,nativeGetLinkView,Table,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/Table.java,Table.java

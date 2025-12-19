@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Lan,,coreLibVersionCompatible,Version,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/Version.java,Version.java
+CS2,Lan,,canonicalPath,SharedGroup,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/SharedGroup.java,SharedGroup.java

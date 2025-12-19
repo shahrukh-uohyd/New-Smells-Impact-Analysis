@@ -1,0 +1,10 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Lan,,getDuration,RTCDtmfSenderTests,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.13.0/webrtc/src/test/java/dev/onvoid/webrtc/RTCDtmfSenderTests.java,RTCDtmfSenderTests.java
+CS2,Lan,,disableEnableTrack,AudioTrackTests,dev.onvoid.webrtc.media.audio,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.13.0/webrtc/src/test/java/dev/onvoid/webrtc/media/audio/AudioTrackTests.java,AudioTrackTests.java
+CS3,Lan,,addAudioTransceiver,RTCPeerConnectionTests,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.13.0/webrtc/src/test/java/dev/onvoid/webrtc/RTCPeerConnectionTests.java,RTCPeerConnectionTests.java
+CS4,Lan,,onTrack,DesktopVideoExample,dev.onvoid.webrtc.examples,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.13.0/webrtc-examples/src/main/java/dev/onvoid/webrtc/examples/DesktopVideoExample.java,DesktopVideoExample.java
+CS5,Lan,,dispose,AudioDeviceModule,dev.onvoid.webrtc.media.audio,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.13.0/webrtc/src/main/java/dev/onvoid/webrtc/media/audio/AudioDeviceModule.java,AudioDeviceModule.java
+CS6,Lan,,offerAnswer,RTCPeerConnectionTests,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.13.0/webrtc/src/test/java/dev/onvoid/webrtc/RTCPeerConnectionTests.java,RTCPeerConnectionTests.java
+CS7,Lan,,statesWhenClosed,RTCPeerConnectionTests,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.13.0/webrtc/src/test/java/dev/onvoid/webrtc/RTCPeerConnectionTests.java,RTCPeerConnectionTests.java
+CS8,Lan,,getInterToneGap,RTCDtmfSenderTests,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.13.0/webrtc/src/test/java/dev/onvoid/webrtc/RTCDtmfSenderTests.java,RTCDtmfSenderTests.java
+CS9,Lan,,disableEnableTrack,VideoTrackTests,dev.onvoid.webrtc.media.video,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.13.0/webrtc/src/test/java/dev/onvoid/webrtc/media/video/VideoTrackTests.java,VideoTrackTests.java

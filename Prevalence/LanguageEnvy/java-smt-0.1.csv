@@ -1,0 +1,33 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Lan,,goalToAST,Z3NativeApiHelpers,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3NativeApiHelpers.java,Z3NativeApiHelpers.java
+CS2,Lan,,createEnvironment,Mathsat5NativeApiTest0,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,Mathsat5NativeApiTest0.java
+CS3,Lan,,toFunction,Mathsat5Model,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5Model.java,Mathsat5Model.java
+CS4,Lan,,negate,"Z3NumeralFormulaManager        <ParamFormulaType extends NumeralFormula
+ ResultFormulaType extends NumeralFormula>",org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3NumeralFormulaManager.java,Z3NumeralFormulaManager.java
+CS5,Lan,,ifThenElse,Mathsat5BooleanFormulaManager,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5BooleanFormulaManager.java,Mathsat5BooleanFormulaManager.java
+CS6,Lan,,isXor,Mathsat5BooleanFormulaManager,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5BooleanFormulaManager.java,Mathsat5BooleanFormulaManager.java
+CS7,Lan,,toMathsatType,Mathsat5Model,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5Model.java,Mathsat5Model.java
+CS8,Lan,,splitNumeralEqualityIfPossible,Z3UnsafeFormulaManager,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3UnsafeFormulaManager.java,Z3UnsafeFormulaManager.java
+CS9,Lan,,isOP,Z3NativeApiConstants,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3NativeApiConstants.java,Z3NativeApiConstants.java
+CS10,Lan,,getName,Z3UnsafeFormulaManager,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3UnsafeFormulaManager.java,Z3UnsafeFormulaManager.java
+CS11,Lan,,push,Mathsat5InterpolatingProver,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5InterpolatingProver.java,Mathsat5InterpolatingProver.java
+CS12,Lan,,select,Z3ArrayFormulaManager,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3ArrayFormulaManager.java,Z3ArrayFormulaManager.java
+CS13,Lan,,splitNumeralEqualityIfPossible,Mathsat5UnsafeFormulaManager,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5UnsafeFormulaManager.java,Mathsat5UnsafeFormulaManager.java
+CS14,Lan,,isAtom,Z3UnsafeFormulaManager,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3UnsafeFormulaManager.java,Z3UnsafeFormulaManager.java
+CS15,Lan,,replaceQuantifiedBody,Z3UnsafeFormulaManager,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3UnsafeFormulaManager.java,Z3UnsafeFormulaManager.java
+CS16,Lan,,applyResultToAST,Z3NativeApiHelpers,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3NativeApiHelpers.java,Z3NativeApiHelpers.java
+CS17,Lan,,applyTactic,Z3NativeApiHelpers,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3NativeApiHelpers.java,Z3NativeApiHelpers.java
+CS18,Lan,,replaceArgsAndName,Z3UnsafeFormulaManager,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3UnsafeFormulaManager.java,Z3UnsafeFormulaManager.java
+CS19,Lan,,getFormulaTypeFromTermType,Mathsat5FormulaCreator,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS20,Lan,,close,Mathsat5AbstractProver,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5AbstractProver.java,Mathsat5AbstractProver.java
+CS21,Lan,,modularCongruence,Mathsat5NativeApiTest0,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,Mathsat5NativeApiTest0.java
+CS22,Lan,,toFunction,Z3Model,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3Model.java,Z3Model.java
+CS23,Lan,,parseMapFromModel,Z3Model,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3Model.java,Z3Model.java
+CS24,Lan,,toConstant,Mathsat5Model,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5Model.java,Mathsat5Model.java
+CS25,Lan,,getModel,Mathsat5OptProver,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5OptProver.java,Mathsat5OptProver.java
+CS26,Lan,,msatEnv,Mathsat5FormulaCreator,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS27,Lan,,isEquivalence,Z3BooleanFormulaManager,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3BooleanFormulaManager.java,Z3BooleanFormulaManager.java
+CS28,Lan,,replaceArgsAndName,Mathsat5UnsafeFormulaManager,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5UnsafeFormulaManager.java,Mathsat5UnsafeFormulaManager.java
+CS29,Lan,,bvSize,Mathsat5NativeApiTest0,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,Mathsat5NativeApiTest0.java
+CS30,Lan,,setParam,Z3OptProver,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3OptProver.java,Z3OptProver.java
+CS31,Lan,,interpretBitvector,Z3Model,org.sosy_lab.solver.z3,src/org/sosy_lab/solver/z3/Z3Model.java,Z3Model.java

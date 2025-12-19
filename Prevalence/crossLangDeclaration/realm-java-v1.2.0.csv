@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,crossLangDe,,nativeClose,Group,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/Group.java,Group.java
+CS2,crossLangDe,,nativeClose,TableQuery,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/TableQuery.java,TableQuery.java
+CS3,crossLangDe,,nativeClose,LinkView,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/LinkView.java,LinkView.java
+CS4,crossLangDe,,nativeClose,TableView,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/TableView.java,TableView.java
+CS5,crossLangDe,,nativeGetLinkView,Table,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/Table.java,Table.java
+CS6,crossLangDe,,nativeClose,UncheckedRow,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/UncheckedRow.java,UncheckedRow.java

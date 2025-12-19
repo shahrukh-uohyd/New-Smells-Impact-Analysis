@@ -1,0 +1,16 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Lan,,addConstraint,Mathsat5InterpolatingProver,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5InterpolatingProver.java,Mathsat5InterpolatingProver.java
+CS2,Lan,,ifThenElse,Mathsat5BooleanFormulaManager,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5BooleanFormulaManager.java,Mathsat5BooleanFormulaManager.java
+CS3,Lan,,checkForLiterals,Mathsat5AbstractProver<T2>,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5AbstractProver.java,Mathsat5AbstractProver.java
+CS4,Lan,,createEnvironment,Mathsat5NativeApiTest,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApiTest.java,Mathsat5NativeApiTest.java
+CS5,Lan,,bvSize,Mathsat5NativeApiTest,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApiTest.java,Mathsat5NativeApiTest.java
+CS6,Lan,,ceil,Mathsat5IntegerFormulaManager,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5IntegerFormulaManager.java,Mathsat5IntegerFormulaManager.java
+CS7,Lan,,close,Mathsat5AbstractProver<T2>,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5AbstractProver.java,Mathsat5AbstractProver.java
+CS8,Lan,,getDeclarationKind,Mathsat5FormulaCreator,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS9,Lan,,getRoundingModeImpl,Mathsat5FloatingPointFormulaManager,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FloatingPointFormulaManager.java,Mathsat5FloatingPointFormulaManager.java
+CS10,Lan,,getFormulaTypeFromTermType,Mathsat5FormulaCreator,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS11,Lan,,msatEnv,Mathsat5FormulaCreator,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS12,Lan,,divide,Mathsat5IntegerFormulaManager,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5IntegerFormulaManager.java,Mathsat5IntegerFormulaManager.java
+CS13,Lan,,getName,Mathsat5FormulaCreator,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS14,Lan,,getModel,Mathsat5OptimizationProver,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5OptimizationProver.java,Mathsat5OptimizationProver.java
+CS15,Lan,,modularCongruence,Mathsat5NativeApiTest,org.sosy_lab.java_smt.solvers.mathsat5,src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApiTest.java,Mathsat5NativeApiTest.java

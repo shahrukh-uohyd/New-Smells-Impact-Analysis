@@ -1,0 +1,15 @@
+Project,Coef_LanguageEnvy,Coef_CrossRespDecl,Coef_ShotgunSurgery,Coef_EncapsulationBypass,Significant_Predictors
+conscrypt-,0.04,3.04,0.03,-0.23,"CrossRespDecl, ShotgunSurgery"
+java-smt-,0.17,0.29,-0.16,-25.74,None
+javacpp-,0.69,2.67,,,None
+jni-bind-release-,0.69,,,0.65,None
+monero-java-v,,,,,None
+pljava-v,-0.26,0.65,0.12,0.37,ShotgunSurgery
+realm-java-v,0.37,1.89,0.64,1.12,"CrossRespDecl, ShotgunSurgery"
+rocksdb-v,,0.72,23.09,0.72,EncapsulationBypass
+sqlite-,0.95,,3.63,68.38,LanguageEnvy
+vlc-,0.12,-22.06,0.00,-0.92,None
+webrtc-v,0.38,0.08,0.14,,"LanguageEnvy, ShotgunSurgery"
+wolfcrypt-v,-1.63,-2.03,-1.37,-3.68,EncapsulationBypass
+wolfssl-v,1.57,-0.86,0.02,-0.02,LanguageEnvy
+zstd-jni-v,0.58,24.81,,-0.63,LanguageEnvy

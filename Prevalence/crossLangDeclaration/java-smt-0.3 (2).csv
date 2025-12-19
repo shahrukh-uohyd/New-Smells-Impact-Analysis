@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,crossLangDe,,msat_term_repr,Mathsat5NativeApi,org.sosy_lab.solver.mathsat5,java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApi.java,Mathsat5NativeApi.java
+CS2,crossLangDe,,inc_ref,Z3NativeApi,org.sosy_lab.solver.z3,java-smt-0.3/src/org/sosy_lab/solver/z3/Z3NativeApi.java,Z3NativeApi.java

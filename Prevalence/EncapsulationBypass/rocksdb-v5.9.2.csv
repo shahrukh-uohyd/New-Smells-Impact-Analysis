@@ -1,0 +1,27 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,org/rocksdb/Status,,Status,org.rocksdb,java/src/main/java/org/rocksdb/Status.java,Status.java
+CS2,JNINonPublicFie,org/rocksdb/BackupInfo,,BackupInfo,org.rocksdb,java/src/main/java/org/rocksdb/BackupInfo.java,BackupInfo.java
+CS3,JNINonPublicFie,org/rocksdb/DirectSlice,,DirectSlice,org.rocksdb,java/src/main/java/org/rocksdb/DirectSlice.java,DirectSlice.java
+CS4,JNINonPublicFie,org/rocksdb/FlushOptions,,FlushOptions,org.rocksdb,java/src/main/java/org/rocksdb/FlushOptions.java,FlushOptions.java
+CS5,JNINonPublicFie,org/rocksdb/WriteBatchWithIndex,,WriteBatchWithIndex,org.rocksdb,java/src/main/java/org/rocksdb/WriteBatchWithIndex.java,WriteBatchWithIndex.java
+CS6,JNINonPublicFie,org/rocksdb/WriteBatch,,WriteBatch,org.rocksdb,java/src/main/java/org/rocksdb/WriteBatch.java,WriteBatch.java
+CS7,JNINonPublicFie,org/rocksdb/ColumnFamilyDescriptor,,ColumnFamilyDescriptor,org.rocksdb,java/src/main/java/org/rocksdb/ColumnFamilyDescriptor.java,ColumnFamilyDescriptor.java
+CS8,JNINonPublicFie,org/rocksdb/RocksIterator,,RocksIterator,org.rocksdb,java/src/main/java/org/rocksdb/RocksIterator.java,RocksIterator.java
+CS9,JNINonPublicFie,org/rocksdb/RocksDB,,RocksDB,org.rocksdb,java/src/main/java/org/rocksdb/RocksDB.java,RocksDB.java
+CS10,JNINonPublicFie,org/rocksdb/AbstractSlice,,AbstractSlice,org.rocksdb,java/src/main/java/org/rocksdb/AbstractSlice.java,AbstractSlice.java
+CS11,JNINonPublicFie,org/rocksdb/DBOptions,,DBOptions,org.rocksdb,java/src/main/java/org/rocksdb/DBOptions.java,DBOptions.java
+CS12,JNINonPublicFie,org/rocksdb/Slice,,Slice,org.rocksdb,java/src/main/java/org/rocksdb/Slice.java,Slice.java
+CS13,JNINonPublicFie,org/rocksdb/ReadOptions,,ReadOptions,org.rocksdb,java/src/main/java/org/rocksdb/ReadOptions.java,ReadOptions.java
+CS14,JNINonPublicFie,org/rocksdb/WBWIRocksIterator,,WBWIRocksIterator,org.rocksdb,java/src/main/java/org/rocksdb/WBWIRocksIterator.java,WBWIRocksIterator.java
+CS15,JNINonPublicFie,org/rocksdb/Options,,Options,org.rocksdb,java/src/main/java/org/rocksdb/Options.java,Options.java
+CS16,JNINonPublicFie,org/rocksdb/WriteOptions,,WriteOptions,org.rocksdb,java/src/main/java/org/rocksdb/WriteOptions.java,WriteOptions.java
+CS17,JNINonPublicFie,org/rocksdb/ColumnFamilyOptions,,ColumnFamilyOptions,org.rocksdb,java/src/main/java/org/rocksdb/ColumnFamilyOptions.java,ColumnFamilyOptions.java
+CS18,JNINonPublicFie,org/rocksdb/Filter,,Filter,org.rocksdb,java/src/main/java/org/rocksdb/Filter.java,Filter.java
+CS19,JNINonPublicFie,org/rocksdb/AbstractCompactionFilterFactory,,AbstractCompactionFilterFactory,org.rocksdb,java/src/main/java/org/rocksdb/AbstractCompactionFilterFactory.java,AbstractCompactionFilterFactory.java
+CS20,JNINonPublicFie,org/rocksdb/ComparatorOptions,,ComparatorOptions,org.rocksdb,java/src/main/java/org/rocksdb/ComparatorOptions.java,ComparatorOptions.java
+CS21,JNINonPublicFie,org/rocksdb/HistogramData,,HistogramData,org.rocksdb,java/src/main/java/org/rocksdb/HistogramData.java,HistogramData.java
+CS22,JNINonPublicFie,org/rocksdb/BackupEngine,,BackupEngine,org.rocksdb,java/src/main/java/org/rocksdb/BackupEngine.java,BackupEngine.java
+CS23,JNINonPublicFie,org/rocksdb/ColumnFamilyHandle,,ColumnFamilyHandle,org.rocksdb,java/src/main/java/org/rocksdb/ColumnFamilyHandle.java,ColumnFamilyHandle.java
+CS24,JNINonPublicFie,org/rocksdb/RocksDBException,,RocksDBException,org.rocksdb,java/src/main/java/org/rocksdb/RocksDBException.java,RocksDBException.java
+CS25,JNINonPublicFie,org/rocksdb/BackupableDBOptions,,BackupableDBOptions,org.rocksdb,java/src/main/java/org/rocksdb/BackupableDBOptions.java,BackupableDBOptions.java
+CS26,JNINonPublicFie,org/rocksdb/Logger,,Logger,org.rocksdb,java/src/main/java/org/rocksdb/Logger.java,Logger.java

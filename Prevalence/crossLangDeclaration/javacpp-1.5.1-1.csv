@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,crossLangDe,,getBool,BytePointer,org.bytedeco.javacpp,src/main/java/org/bytedeco/javacpp/BytePointer.java,BytePointer.java
+CS2,crossLangDe,,totalPhysicalBytes,Pointer,org.bytedeco.javacpp,src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS3,crossLangDe,,totalProcessors,Loader,org.bytedeco.javacpp,src/main/java/org/bytedeco/javacpp/Loader.java,Loader.java
+CS4,crossLangDe,,call,TestFunction,org.bytedeco.javacpp,src/test/java/org/bytedeco/javacpp/PointerTest.java,PointerTest.java

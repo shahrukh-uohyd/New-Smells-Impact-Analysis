@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Shotgu,"io/realm/internal/async/BadVersionException",ThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS2,Shotgu,"io/realm/exceptions/RealmFileException",ThrowRealmFileException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS3,Shotgu,"(ILjava/lang/String;Ljava/lang/Throwable;Ljava/lang/String;)V",,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/jni_util/log.cpp,log.cpp
+CS4,Shotgu,"(BLjava/lang/String;)V",ThrowRealmFileException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS5,Shotgu,"io/realm/exceptions/RealmError",ThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp

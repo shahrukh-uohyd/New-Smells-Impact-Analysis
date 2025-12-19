@@ -1,0 +1,12 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Lan,,setWorkers,ZstdOutputStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdOutputStream.java,ZstdOutputStream.java
+CS2,Lan,,compressUsingDict,Zstd,com.github.luben.zstd,src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS3,Lan,,setDict,ZstdInputStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdInputStream.java,ZstdInputStream.java
+CS4,Lan,,setChecksum,ZstdOutputStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdOutputStream.java,ZstdOutputStream.java
+CS5,Lan,,setDict,ZstdOutputStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdOutputStream.java,ZstdOutputStream.java
+CS6,Lan,,write,ZstdOutputStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdOutputStream.java,ZstdOutputStream.java
+CS7,Lan,,setDict,ZstdDirectBufferDecompressingStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdDirectBufferDecompressingStream.java,ZstdDirectBufferDecompressingStream.java
+CS8,Lan,,decompress,Zstd,com.github.luben.zstd,src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS9,Lan,,setLevel,ZstdOutputStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdOutputStream.java,ZstdOutputStream.java
+CS10,Lan,,compress,Zstd,com.github.luben.zstd,src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS11,Lan,,readInternal,ZstdInputStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdInputStream.java,ZstdInputStream.java

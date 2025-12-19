@@ -1,0 +1,10 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,io/realm/SyncSession,Java_io_realm_SyncSession_nativeWaitForDownloadCompletion,SyncSession,io.realm,realm/realm-library/src/objectServer/java/io/realm/SyncSession.java,SyncSession.java
+CS2,JNINonPublicFie,io/realm/exceptions/RealmFileException,ThrowRealmFileException,RealmFileException,io.realm.exceptions,realm/realm-library/src/main/java/io/realm/exceptions/RealmFileException.java,RealmFileException.java
+CS3,JNINonPublicFie,io/realm/SyncManager,Java_io_realm_SyncSession_nativeAddProgressListener,SyncManager,io.realm,realm/realm-library/src/objectServer/java/io/realm/SyncManager.java,SyncManager.java
+CS4,JNINonPublicFie,io/realm/internal/SharedRealm,get_shared_realm_class,SharedRealm,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/SharedRealm.java,SharedRealm.java
+CS5,JNINonPublicFie,io/realm/internal/Collection,Java_io_realm_internal_Collection_nativeStartListening,Collection,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/Collection.java,Collection.java
+CS6,JNINonPublicFie,io/realm/internal/RealmNotifier,,RealmNotifier,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/RealmNotifier.java,RealmNotifier.java
+CS7,JNINonPublicFie,io/realm/exceptions/RealmMigrationNeededException,,RealmMigrationNeededException,io.realm.exceptions,realm/realm-library/src/main/java/io/realm/exceptions/RealmMigrationNeededException.java,RealmMigrationNeededException.java
+CS8,JNINonPublicFie,io/realm/internal/OsObject,Java_io_realm_internal_OsObject_nativeStartListening,OsObject,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/OsObject.java,OsObject.java
+CS9,JNINonPublicFie,io/realm/internal/SortDescriptor,JavaSortDescriptor::get_sort_desc_class,SortDescriptor,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/SortDescriptor.java,SortDescriptor.java

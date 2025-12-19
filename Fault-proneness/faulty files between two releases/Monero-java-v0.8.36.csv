@@ -1,0 +1,4 @@
+buggy_file_path,fix_commit_hash,fix_date,buggy_commit_hash,buggy_date,fix_message
+src/main/java/monero/wallet/MoneroWalletRpc.java,ff17d35a74d59386b03322c5ff6b971f5ecc46bb,2025-04-24 10:12:35-04:00,b9c5b105f51d9094c28b4e74261cc9b30391e0c4,2019-04-14 08:20:59-04:00,Fix `start_mining` params for monero-wallet-rpc (#121)
+src/main/java/monero/common/MoneroRpcError.java,257d2412d7419c2e6ce4f808cc827db5ddae878f,2025-06-12 11:13:27-04:00,f8504cec53582223088bd24ad7a105d48ab98875,2017-04-12 22:18:57-04:00,do not include params in MoneroRpcError.toString()
+src/test/java/TestMoneroWalletCommon.java,15b0f859854170d9b9773f8752d9702b9a7b2190,2025-06-12 11:13:27-04:00,b1af482025b4abb78697fac727db4bfcbe954173,2019-11-28 10:17:18-05:00,update expected error message for change password test

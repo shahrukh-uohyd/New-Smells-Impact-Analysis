@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Lan,,testGlobalObjectsBeDestroyed,ContextTest,com.jnibind.android,/home/shahrukh/smellDetection/Detection/revision projects/jni-bind/Release-1.0.0-beta/javatests/com/jnibind/android/ContextTest.java,ContextTest.java
+CS2,Lan,,testGlobalObjectsBeDestroyed,ContextTest,com.jnibind.test,/home/shahrukh/smellDetection/Detection/revision projects/jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/ContextTest.java,ContextTest.java

@@ -1,0 +1,12 @@
+buggy_file_path,fix_commit_hash,fix_date,buggy_commit_hash,buggy_date,fix_message
+README.adoc,662fb09ee8fb1f4ac52dd7bc4959ef1033f23575,2024-04-29 09:51:07+08:00,df064f79c92c9776a3e06abb4a04c7220d573795,2012-11-24 09:55:34-05:00,style: fix typos in comment
+demo/Sample.java,662fb09ee8fb1f4ac52dd7bc4959ef1033f23575,2024-04-29 09:51:07+08:00,86337bdc06fad6eba9f66fcedaafd48632e9d46c,2014-10-20 14:33:25+09:00,style: fix typos in comment
+.github/workflows/ci.yml,db057a8b695ac3b8ff0b283c7781a84314904854,2024-04-29 16:33:52+08:00,840ce0e1ed09125133d380d9bdc1dc46f29ebb1f,2023-07-26 09:56:59+08:00,ci: fix failing multi-arch
+.github/workflows/ci.yml,db057a8b695ac3b8ff0b283c7781a84314904854,2024-04-29 16:33:52+08:00,e437b3fc4dccc3152dac3bcf8c3154926ddc54ec,2023-02-01 11:33:52+08:00,ci: fix failing multi-arch
+.github/workflows/ci.yml,db057a8b695ac3b8ff0b283c7781a84314904854,2024-04-29 16:33:52+08:00,674288c4fb013609cea81136b05b8203610c130c,2021-09-07 18:47:38-07:00,ci: fix failing multi-arch
+src/test/java/org/sqlite/MultipleClassLoaderTest.java,db057a8b695ac3b8ff0b283c7781a84314904854,2024-04-29 16:33:52+08:00,4454398c064892d114f8bbf289028b905f6036bc,2021-08-29 21:55:47-07:00,ci: fix failing multi-arch
+src/test/java/org/sqlite/MultipleClassLoaderTest.java,db057a8b695ac3b8ff0b283c7781a84314904854,2024-04-29 16:33:52+08:00,f3ac947d4f518a9c8ef3c02928223e618297576a,2022-08-29 17:32:16+08:00,ci: fix failing multi-arch
+src/test/java/org/sqlite/MultipleClassLoaderTest.java,db057a8b695ac3b8ff0b283c7781a84314904854,2024-04-29 16:33:52+08:00,d4f4dc211e2352ce47ee861d8e40cc5fda464bc3,2023-10-03 15:34:32+08:00,ci: fix failing multi-arch
+src/test/java/org/sqlite/MultipleClassLoaderTest.java,db057a8b695ac3b8ff0b283c7781a84314904854,2024-04-29 16:33:52+08:00,3d04d7df0c89240add2c92189adb30b6cb7e6ae0,2021-09-01 09:06:59-07:00,ci: fix failing multi-arch
+src/test/java/org/sqlite/MultipleClassLoaderTest.java,db057a8b695ac3b8ff0b283c7781a84314904854,2024-04-29 16:33:52+08:00,77339eddde9e019cf6decc0e716a6602b3eda6f4,2023-10-03 15:37:17+08:00,ci: fix failing multi-arch
+src/test/java/org/sqlite/MultipleClassLoaderTest.java,db057a8b695ac3b8ff0b283c7781a84314904854,2024-04-29 16:33:52+08:00,21c77a481f6970622b99d712d36d0336d63fd554,2023-10-03 15:08:12+08:00,ci: fix failing multi-arch

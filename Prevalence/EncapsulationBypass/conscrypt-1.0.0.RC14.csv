@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,org/conscrypt/NativeCrypto,NativeCrypto::registerNativeMethods,NativeCrypto,org.conscrypt,android-stub/src/main/java/com/android/org/conscrypt/NativeCrypto.java,NativeCrypto.java
+CS2,JNINonPublicFie,org/conscrypt/OpenSSLBIOInputStream,init,OpenSSLBIOInputStream,org.conscrypt,common/src/main/java/org/conscrypt/OpenSSLBIOInputStream.java,OpenSSLBIOInputStream.java
+CS3,JNINonPublicFie,org/conscrypt/NativeRef,init,NativeRef,org.conscrypt,common/src/main/java/org/conscrypt/NativeRef.java,NativeRef.java
+CS4,JNINonPublicFie,org/conscrypt/CryptoUpcalls,init,CryptoUpcalls,org.conscrypt,common/src/main/java/org/conscrypt/CryptoUpcalls.java,CryptoUpcalls.java

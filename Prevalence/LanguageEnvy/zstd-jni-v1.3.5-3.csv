@@ -1,0 +1,8 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Lan,,compressUsingDict,Zstd,com.github.luben.zstd,src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS2,Lan,,flush,ZstdOutputStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdOutputStream.java,ZstdOutputStream.java
+CS3,Lan,,write,ZstdOutputStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdOutputStream.java,ZstdOutputStream.java
+CS4,Lan,,decompress,Zstd,com.github.luben.zstd,src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS5,Lan,,compress,Zstd,com.github.luben.zstd,src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS6,Lan,,initStream,ZstdDirectBufferDecompressingStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdDirectBufferDecompressingStream.java,ZstdDirectBufferDecompressingStream.java
+CS7,Lan,,read,ZstdInputStream,com.github.luben.zstd,src/main/java/com/github/luben/zstd/ZstdInputStream.java,ZstdInputStream.java

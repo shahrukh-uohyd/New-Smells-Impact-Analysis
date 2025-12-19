@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,io/realm/exceptions/RealmFileException,ThrowRealmFileException,RealmFileException,io.realm.exceptions,realm/realm-library/src/main/java/io/realm/exceptions/RealmFileException.java,RealmFileException.java

@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,org/sqlite/Collation,JNI_OnLoad,Collation,org.sqlite,/home/shahrukh/smellDetection/Detection/revision projects/sqlite/3.47.2.0/src/main/java/org/sqlite/Collation.java,Collation.java
+CS2,JNINonPublicFie,org/sqlite/BusyHandler,JNI_OnLoad,BusyHandler,org.sqlite,/home/shahrukh/smellDetection/Detection/revision projects/sqlite/3.47.2.0/src/main/java/org/sqlite/BusyHandler.java,BusyHandler.java
+CS3,JNINonPublicFie,org/sqlite/core/NativeDB,JNI_OnLoad,NativeDB,org.sqlite.core,/home/shahrukh/smellDetection/Detection/revision projects/sqlite/3.47.2.0/src/main/java/org/sqlite/core/NativeDB.java,NativeDB.java
+CS4,JNINonPublicFie,org/sqlite/ProgressHandler,JNI_OnLoad,ProgressHandler,org.sqlite,/home/shahrukh/smellDetection/Detection/revision projects/sqlite/3.47.2.0/src/main/java/org/sqlite/ProgressHandler.java,ProgressHandler.java
+CS5,JNINonPublicFie,org/sqlite/Function,JNI_OnLoad,Function,org.sqlite,/home/shahrukh/smellDetection/Detection/revision projects/sqlite/3.47.2.0/src/main/java/org/sqlite/Function.java,Function.java

@@ -1,0 +1,11 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,io/realm/internal/OsSharedRealm,get_shared_realm_class,OsSharedRealm,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/OsSharedRealm.java,OsSharedRealm.java
+CS2,JNINonPublicFie,io/realm/SyncSession,Java_io_realm_SyncSession_nativeWaitForDownloadCompletion,SyncSession,io.realm,realm/realm-library/src/objectServer/java/io/realm/SyncSession.java,SyncSession.java
+CS3,JNINonPublicFie,io/realm/exceptions/IncompatibleSyncedFileException,ThrowRealmFileException,IncompatibleSyncedFileException,io.realm.exceptions,realm/realm-library/src/objectServer/java/io/realm/exceptions/IncompatibleSyncedFileException.java,IncompatibleSyncedFileException.java
+CS4,JNINonPublicFie,io/realm/exceptions/RealmFileException,ThrowRealmFileException,RealmFileException,io.realm.exceptions,realm/realm-library/src/main/java/io/realm/exceptions/RealmFileException.java,RealmFileException.java
+CS5,JNINonPublicFie,io/realm/SyncManager,Java_io_realm_SyncSession_nativeAddProgressListener,SyncManager,io.realm,realm/realm-library/src/objectServer/java/io/realm/SyncManager.java,SyncManager.java
+CS6,JNINonPublicFie,io/realm/internal/RealmNotifier,,RealmNotifier,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/RealmNotifier.java,RealmNotifier.java
+CS7,JNINonPublicFie,io/realm/exceptions/RealmMigrationNeededException,,RealmMigrationNeededException,io.realm.exceptions,realm/realm-library/src/main/java/io/realm/exceptions/RealmMigrationNeededException.java,RealmMigrationNeededException.java
+CS8,JNINonPublicFie,io/realm/internal/OsObject,Java_io_realm_internal_OsObject_nativeStartListening,OsObject,io.realm.internal,realm/realm-library/src/main/java/io/realm/internal/OsObject.java,OsObject.java
+CS9,JNINonPublicFie,io/realm/internal/core/QueryDescriptor,JavaQueryDescriptor::get_sort_desc_class,QueryDescriptor,io.realm.internal.core,realm/realm-library/src/main/java/io/realm/internal/core/QueryDescriptor.java,QueryDescriptor.java
+CS10,JNINonPublicFie,io/realm/internal/sync/OsSubscription,SubscriptionWrapper::start_listening,OsSubscription,io.realm.internal.sync,realm/realm-library/src/main/java/io/realm/internal/sync/OsSubscription.java,OsSubscription.java

@@ -1,0 +1,199 @@
+file,LanguageEnvy,CrossRespDecl,ShotgunSurgery,EncapsulationBypass,change_prone,Release_File
+src/org/sosy_lab/solver/z3/Z3NativeApiHelpers.java,3,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5InterpolatingProver.java,1,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/z3/Z3ArrayFormulaManager.java,1,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/z3/Z3OptProver.java,1,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApi.java,0,1,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/Model.java,6,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/z3/Z3BooleanFormulaManager.java,1,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,3,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/z3/Z3UnsafeFormulaManager.java,5,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/api/NumeralFormulaManager.java,1,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/api/UnsafeFormulaManager.java,7,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/api/ArrayFormulaManager.java,1,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,2,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5OptProver.java,1,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5BooleanFormulaManager.java,2,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5Model.java,3,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5AbstractProver.java,1,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5UnsafeFormulaManager.java,2,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/z3/Z3NativeApiConstants.java,1,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/api/BooleanFormulaManager.java,3,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/api/FormulaManager.java,12,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/z3/Z3Model.java,3,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/z3/Z3NativeApi.java,0,1,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/basicimpl/FormulaCreator.java,2,0,0,0,1,java-smt-0.1.csv
+src/org/sosy_lab/solver/z3/Z3NumeralFormulaManager.java,1,0,0,0,1,java-smt-0.1.csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3NativeApiConstants.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,3,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/lib/native/source/libmathsat5j/org_sosy_1lab_solver_mathsat5_Mathsat5NativeApi.c,0,0,6,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/api/SolverContext.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3SolverException.java,0,0,0,1,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3FunctionFormulaManager.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/api/Model.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/basicimpl/FormulaCreator.java,5,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/api/ArrayFormulaManager.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3SolverContext.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/api/FormulaManager.java,5,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/SolverException.java,0,0,0,1,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3OptimizationProver.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/api/FunctionFormulaManager.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3InterpolatingProver.java,2,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5AbstractProver.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3TheoremProver.java,2,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/lib/native/source/libz3j/includes/error_handling.h,0,0,1,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/api/BooleanFormulaManager.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApi.java,0,1,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3FormulaManager.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaManager.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3ArrayFormulaManager.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5OptimizationProver.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3NativeApiHelpers.java,3,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,3,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3NativeApi.java,0,1,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3Model.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/mathsat5/Mathsat5BooleanFormulaManager.java,1,0,0,0,0,java-smt-0.3 (2).csv
+java-smt-0.3/src/org/sosy_lab/solver/z3/Z3FormulaCreator.java,2,0,0,0,0,java-smt-0.3 (2).csv
+src/org/sosy_lab/solver/z3/Z3SolverContext.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3java/Z3NativeApiHelpers.java,3,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3NativeApiHelpers.java,3,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3ArrayFormulaManager.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3FormulaCreator.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3java/Z3OptimizationProver.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApi.java,0,1,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,3,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3java/Z3InterpolatingProver.java,2,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3SolverException.java,0,0,0,1,0,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3FormulaManager.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/api/ArrayFormulaManager.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3UFManager.java,1,0,0,0,1,java-smt-0.5.csv
+lib/native/source/libz3j/includes/error_handling.h,0,0,1,0,0,java-smt-0.5.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,4,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5BooleanFormulaManager.java,1,0,0,0,0,java-smt-0.5.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5AbstractProver.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3java/Z3ArrayFormulaManager.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3NativeApiConstants.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3java/Z3UFManager.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/api/BooleanFormulaManager.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/api/FormulaManager.java,4,0,0,0,1,java-smt-0.5.csv
+lib/native/source/libmathsat5j/org_sosy_1lab_solver_mathsat5_Mathsat5NativeApi.c,0,0,6,0,0,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3java/Z3FormulaManager.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3InterpolatingProver.java,2,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3TheoremProver.java,2,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/api/UFManager.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3Model.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3java/Z3Model.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/api/SolverContext.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3java/Z3SolverContext.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3OptimizationProver.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3/Z3NativeApi.java,0,1,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/basicimpl/FormulaCreator.java,5,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5OptimizationProver.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/SolverException.java,0,0,0,1,0,java-smt-0.5.csv
+src/org/sosy_lab/solver/api/Model.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3java/Z3TheoremProver.java,2,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/z3java/Z3FormulaCreator.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaManager.java,1,0,0,0,1,java-smt-0.5.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5InterpolatingProver.java,1,0,0,0,1,java-smt-0.60.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApi.java,0,1,0,0,1,java-smt-0.60.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,3,0,0,0,0,java-smt-0.60.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,4,0,0,0,1,java-smt-0.60.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5BooleanFormulaManager.java,1,0,0,0,1,java-smt-0.60.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5AbstractProver.java,1,0,0,0,1,java-smt-0.60.csv
+src/org/sosy_lab/solver/api/BooleanFormulaManager.java,1,0,0,0,1,java-smt-0.60.csv
+src/org/sosy_lab/solver/api/FormulaManager.java,2,0,0,0,1,java-smt-0.60.csv
+lib/native/source/libmathsat5j/org_sosy_1lab_solver_mathsat5_Mathsat5NativeApi.c,0,0,6,0,1,java-smt-0.60.csv
+src/org/sosy_lab/solver/basicimpl/FormulaCreator.java,4,0,0,0,1,java-smt-0.60.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5OptimizationProver.java,1,0,0,0,1,java-smt-0.60.csv
+src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaManager.java,1,0,0,0,1,java-smt-0.60.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApiTest.java,3,0,0,0,1,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5OptimizationProver.java,1,0,0,0,1,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FloatingPointFormulaManager.java,1,0,0,0,1,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/api/FloatingPointFormulaManager.java,1,0,0,0,1,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/basicimpl/FormulaCreator.java,4,0,0,0,1,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FormulaCreator.java,4,0,0,0,1,java-smt-1.0.1.csv
+lib/native/source/libmathsat5j/org_sosy_1lab_java_1smt_solvers_mathsat5_Mathsat5NativeApi.c,0,0,6,0,1,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5AbstractProver.java,1,0,0,0,1,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/api/BooleanFormulaManager.java,1,0,0,0,1,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5BooleanFormulaManager.java,1,0,0,0,0,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/api/FormulaManager.java,2,0,0,0,1,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5InterpolatingProver.java,1,0,0,0,1,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApi.java,0,1,0,0,1,java-smt-1.0.1.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApiTest.java,3,0,0,0,0,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5OptimizationProver.java,1,0,0,0,1,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FloatingPointFormulaManager.java,1,0,0,0,1,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/api/FloatingPointFormulaManager.java,1,0,0,0,1,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/basicimpl/FormulaCreator.java,4,0,0,0,1,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FormulaCreator.java,4,0,0,0,1,java-smt-2.0.0-alpha.csv
+lib/native/source/libmathsat5j/org_sosy_1lab_java_1smt_solvers_mathsat5_Mathsat5NativeApi.c,0,0,6,0,1,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5AbstractProver.java,1,0,0,0,1,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/api/BooleanFormulaManager.java,1,0,0,0,1,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5BooleanFormulaManager.java,1,0,0,0,0,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/api/FormulaManager.java,2,0,0,0,1,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5InterpolatingProver.java,1,0,0,0,1,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApi.java,0,1,0,0,1,java-smt-2.0.0-alpha.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApiTest.java,3,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/basicimpl/AbstractProver.java,2,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5OptimizationProver.java,1,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FloatingPointFormulaManager.java,1,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/api/FloatingPointFormulaManager.java,1,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/basicimpl/FormulaCreator.java,4,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FormulaCreator.java,4,0,0,0,0,java-smt-2.0.0.csv
+lib/native/source/libmathsat5j/org_sosy_1lab_java_1smt_solvers_mathsat5_Mathsat5NativeApi.c,0,0,6,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5IntegerFormulaManager.java,2,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5AbstractProver.java,2,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/api/BooleanFormulaManager.java,1,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/api/IntegerFormulaManager.java,2,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5BooleanFormulaManager.java,1,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/api/FormulaManager.java,4,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5InterpolatingProver.java,1,0,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApi.java,0,1,0,0,0,java-smt-2.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApiTest.java,3,0,0,0,0,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/basicimpl/AbstractProver.java,2,0,0,0,1,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5OptimizationProver.java,1,0,0,0,0,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FloatingPointFormulaManager.java,1,0,0,0,1,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/api/FloatingPointFormulaManager.java,1,0,0,0,1,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/basicimpl/FormulaCreator.java,4,0,0,0,1,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FormulaCreator.java,4,0,0,0,1,java-smt-2.2.0.csv
+lib/native/source/libmathsat5j/org_sosy_1lab_java_1smt_solvers_mathsat5_Mathsat5NativeApi.c,0,0,6,0,0,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5IntegerFormulaManager.java,2,0,0,0,0,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5AbstractProver.java,2,0,0,0,0,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/api/BooleanFormulaManager.java,1,0,0,0,1,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/api/IntegerFormulaManager.java,2,0,0,0,1,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5BooleanFormulaManager.java,1,0,0,0,0,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/api/FormulaManager.java,4,0,0,0,1,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5InterpolatingProver.java,1,0,0,0,1,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApi.java,0,1,0,0,0,java-smt-2.2.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApiTest.java,3,0,0,0,1,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/basicimpl/AbstractProver.java,2,0,0,0,1,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5OptimizationProver.java,1,0,0,0,1,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FloatingPointFormulaManager.java,1,0,0,0,0,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/api/FloatingPointFormulaManager.java,1,0,0,0,0,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/basicimpl/FormulaCreator.java,4,0,0,0,1,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FormulaCreator.java,4,0,0,0,0,java-smt-3.0.0.csv
+lib/native/source/libmathsat5j/org_sosy_1lab_java_1smt_solvers_mathsat5_Mathsat5NativeApi.c,0,0,6,0,0,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5IntegerFormulaManager.java,2,0,0,0,0,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5AbstractProver.java,2,0,0,0,0,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/api/BooleanFormulaManager.java,1,0,0,0,1,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/api/IntegerFormulaManager.java,2,0,0,0,0,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5BooleanFormulaManager.java,1,0,0,0,0,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/api/FormulaManager.java,4,0,0,0,1,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5InterpolatingProver.java,1,0,0,0,0,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApi.java,0,1,0,0,1,java-smt-3.0.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApiTest.java,1,0,0,0,0,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/basicimpl/AbstractProver.java,2,0,0,0,1,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5AbstractNativeApiTest.java,2,0,0,0,0,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FloatingPointFormulaManager.java,1,0,0,0,1,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5OptimizationNativeApiTest.java,1,0,0,0,0,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/api/FloatingPointFormulaManager.java,1,0,0,0,1,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/basicimpl/FormulaCreator.java,4,0,0,0,1,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5FormulaCreator.java,4,0,0,0,1,java-smt-3.1.0.csv
+lib/native/source/libmathsat5j/org_sosy_1lab_java_1smt_solvers_mathsat5_Mathsat5NativeApi.c,0,0,6,0,0,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5IntegerFormulaManager.java,2,0,0,0,0,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5AbstractProver.java,2,0,0,0,0,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/api/BooleanFormulaManager.java,1,0,0,0,1,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/api/IntegerFormulaManager.java,2,0,0,0,1,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5BooleanFormulaManager.java,1,0,0,0,0,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/api/FormulaManager.java,4,0,0,0,1,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5InterpolatingProver.java,1,0,0,0,0,java-smt-3.1.0.csv
+src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApi.java,0,1,0,0,0,java-smt-3.1.0.csv

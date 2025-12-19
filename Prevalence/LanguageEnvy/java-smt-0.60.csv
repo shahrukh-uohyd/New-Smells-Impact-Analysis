@@ -1,0 +1,13 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Lan,,ifThenElse,Mathsat5BooleanFormulaManager,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5BooleanFormulaManager.java,Mathsat5BooleanFormulaManager.java
+CS2,Lan,,addConstraint,Mathsat5InterpolatingProver,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5InterpolatingProver.java,Mathsat5InterpolatingProver.java
+CS3,Lan,,close,Mathsat5AbstractProver<T2>,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5AbstractProver.java,Mathsat5AbstractProver.java
+CS4,Lan,,splitNumeralEqualityIfPossible,Mathsat5FormulaManager,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaManager.java,Mathsat5FormulaManager.java
+CS5,Lan,,getName,Mathsat5FormulaCreator,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS6,Lan,,createEnvironment,Mathsat5NativeApiTest0,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,Mathsat5NativeApiTest0.java
+CS7,Lan,,getFormulaTypeFromTermType,Mathsat5FormulaCreator,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS8,Lan,,msatEnv,Mathsat5FormulaCreator,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS9,Lan,,getModel,Mathsat5OptimizationProver,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5OptimizationProver.java,Mathsat5OptimizationProver.java
+CS10,Lan,,getDeclarationKind,Mathsat5FormulaCreator,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5FormulaCreator.java,Mathsat5FormulaCreator.java
+CS11,Lan,,bvSize,Mathsat5NativeApiTest0,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,Mathsat5NativeApiTest0.java
+CS12,Lan,,modularCongruence,Mathsat5NativeApiTest0,org.sosy_lab.solver.mathsat5,src/org/sosy_lab/solver/mathsat5/Mathsat5NativeApiTest0.java,Mathsat5NativeApiTest0.java

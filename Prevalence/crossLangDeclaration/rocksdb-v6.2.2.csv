@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,crossLangDe,,getColumnFamilyOptionsFromProps,ColumnFamilyOptions,org.rocksdb,java/src/main/java/org/rocksdb/ColumnFamilyOptions.java,ColumnFamilyOptions.java
+CS2,crossLangDe,,closeDatabase,RocksDB,org.rocksdb,java/src/main/java/org/rocksdb/RocksDB.java,RocksDB.java
+CS3,crossLangDe,,getLatestOptionsFileName,OptionsUtil,org.rocksdb,java/src/main/java/org/rocksdb/OptionsUtil.java,OptionsUtil.java

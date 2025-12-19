@@ -1,0 +1,171 @@
+Project,Release,Total java files,smelly files,percentage
+Conscrypt,conscrypt-1.0.0.RC11,256,4,1.56
+Conscrypt,conscrypt-1.0.0.RC14,263,4,1.52
+Conscrypt,conscrypt-1.0.0.RC2,256,4,1.56
+Conscrypt,conscrypt-1.0.0.RC8,256,4,1.56
+Conscrypt,conscrypt-1.0.1,263,4,1.52
+Conscrypt,conscrypt-1.0.2,263,4,1.52
+Conscrypt,conscrypt-1.1.1,269,4,1.49
+Conscrypt,conscrypt-1.2.0,306,4,1.31
+Conscrypt,conscrypt-1.4.2,312,4,1.28
+Conscrypt,conscrypt-2.1.0,318,4,1.26
+Conscrypt Average,,,,1.458
+Java-smt,java-smt-0.1,143,0,0
+Java-smt,java-smt-0.3 (2),185,1,0.54
+Java-smt,java-smt-0.5,193,1,0.52
+Java-smt,java-smt-0.60,195,0,0
+Java-smt,java-smt-1.0.1,197,0,0
+Java-smt,java-smt-2.0.0,205,0,0
+Java-smt,java-smt-2.0.0-alpha,195,0,0
+Java-smt,java-smt-2.2.0,208,0,0
+Java-smt,java-smt-3.0.0,211,0,0
+Java-smt,java-smt-3.1.0,213,0,0
+Java-smt Average,,,,0.106
+Javacpp,javacpp-0.5,47,0,0
+Javacpp,javacpp-0.9,72,0,0
+Javacpp,javacpp-1.1,107,0,0
+Javacpp,javacpp-1.2,119,0,0
+Javacpp,javacpp-1.2.1,119,0,0
+Javacpp,javacpp-1.2.7,124,0,0
+Javacpp,javacpp-1.3,124,0,0
+Javacpp,javacpp-1.3.2,124,0,0
+Javacpp,javacpp-1.4,128,0,0
+Javacpp,javacpp-1.4.2,131,0,0
+Javacpp,javacpp-1.4.4,144,0,0
+Javacpp,javacpp-1.5,145,0,0
+Javacpp,javacpp-1.5.1-1,145,0,0
+Javacpp Average,,,,0
+Jni-bind,jni-bind-Release-0.8.0-alpha,16,7,43.75
+Jni-bind,jni-bind-Release-0.9.1-alpha,16,7,43.75
+Jni-bind,jni-bind-Release-0.9.3-alpha,16,7,43.75
+Jni-bind,jni-bind-Release-0.9.6-alpha,17,7,41.18
+Jni-bind,jni-bind-Release-0.9.7-alpha,19,8,42.11
+Jni-bind,jni-bind-Release-0.9.8-alpha,19,8,42.11
+Jni-bind,jni-bind-Release-0.9.9-alpha,36,14,38.89
+Jni-bind,jni-bind-Release-1.0.0-beta,36,14,38.89
+Jni-bind,jni-bind-Release-1.1.0-beta,36,14,38.89
+Jni-bind,jni-bind-Release-1.1.2-beta,37,14,37.84
+Jni-bind Average,,,,41.116
+Jpype,jpype-v0.5.4.5,26,0,0
+Jpype,jpype-v0.5.5.1,32,0,0
+Jpype,jpype-v0.5.5.4,32,0,0
+Jpype,jpype-v0.5.6,32,0,0
+Jpype,jpype-v0.5.7,32,0,0
+Jpype,jpype-v0.6.0,34,0,0
+Jpype,jpype-v0.6.1,34,0,0
+Jpype,jpype-v0.6.2,38,0,0
+Jpype,jpype-v0.6.3,48,0,0
+Jpype,jpype-v0.7,62,1,1.61
+Jpype,jpype-v0.7.1,67,1,1.49
+Jpype Average,,,,0.281818181818182
+Monero-java,Monero-java-v0.8.10,104,0,0
+Monero-java,Monero-java-v0.8.13,104,0,0
+Monero-java,Monero-java-v0.8.17,104,0,0
+Monero-java,Monero-java-v0.8.24,104,0,0
+Monero-java,Monero-java-v0.8.31,104,0,0
+Monero-java,Monero-java-v0.8.35,104,0,0
+Monero-java,Monero-java-v0.8.36,104,0,0
+Monero-java,Monero-java-v0.8.37,104,0,0
+Monero-java,Monero-java-v0.8.38,104,0,0
+Monero-java,Monero-java-v0.8.9,104,0,0
+Monero-java Average,,,,0
+Pljava,pljava-1_2_0,113,26,23.01
+Pljava,pljava-1_3_0,125,29,23.2
+Pljava,pljava-1_4_0,125,29,23.2
+Pljava,pljava-1_4_2,125,29,23.2
+Pljava,pljava-1_5_stable-base,137,30,21.9
+Pljava,pljava-V1_4_3,125,29,23.2
+Pljava,pljava-V1_5_0,140,30,21.43
+Pljava,pljava-V1_5_0b3,140,30,21.43
+Pljava,pljava-V1_5_1b1,139,29,20.86
+Pljava,pljava-V1_5_1b2,154,32,20.78
+Pljava,pljava-V1_5_2,156,32,20.51
+Pljava,pljava-V1_5_3,157,31,19.75
+Pljava Average,,,,21.8725
+RcoksDB,rocksdb-v5.0.2,146,25,17.12
+RcoksDB,rocksdb-v5.11.2,199,30,15.08
+RcoksDB,rocksdb-v5.14.3,201,30,14.93
+RcoksDB,rocksdb-v5.17.2,203,30,14.78
+RcoksDB,rocksdb-v5.18.3,208,30,14.42
+RcoksDB,rocksdb-v5.4.6,166,26,15.66
+RcoksDB,rocksdb-v5.6.2,165,26,15.76
+RcoksDB,rocksdb-v5.9.2,173,26,15.03
+RcoksDB,rocksdb-v6.1.1,255,39,15.29
+RcoksDB,rocksdb-v6.2.2,255,39,15.29
+RcoksDB Average,,,,15.336
+Realm-java,realm-java-v0.90.0,361,3,0.83
+Realm-java,realm-java-v1.2.0,361,0,0
+Realm-java,realm-java-v2.3.2,452,1,0.22
+Realm-java,realm-java-v3.7.2,544,9,1.65
+Realm-java,realm-java-v4.4.0,597,9,1.51
+Realm-java,realm-java-v5.11.0,652,10,1.53
+Realm-java,realm-java-v5.15.0,623,11,1.77
+Realm-java,realm-java-v5.4.0,633,10,1.58
+Realm-java,realm-java-v5.7.1,647,10,1.55
+Realm-java,realm-java-v5.9.0,655,10,1.53
+Realm-java Average,,,,1.217
+Sqlite,sqlite-3.42.0.1,97,5,5.15
+Sqlite,sqlite-3.44.0.0,100,5,5
+Sqlite,sqlite-3.45.0.0,100,5,5
+Sqlite,sqlite-3.45.2.0,100,5,5
+Sqlite,sqlite-3.46.0.0,100,5,5
+Sqlite,sqlite-3.46.1.1,102,5,4.9
+Sqlite,sqlite-3.47.0.0,102,5,4.9
+Sqlite,sqlite-3.47.2.0,102,5,4.9
+Sqlite,sqlite-3.49.0.0,102,5,4.9
+Sqlite,sqlite-3.50.1.0,102,5,4.9
+Sqlite Average,,,,4.965
+Vlc,vlc-2.5.4,262,13,4.96
+Vlc,vlc-3.0.0,261,14,5.36
+Vlc,vlc-3.0.11,261,14,5.36
+Vlc,vlc-3.0.13,261,14,5.36
+Vlc,vlc-3.0.92,204,14,6.86
+Vlc,vlc-3.0.96,201,14,6.97
+Vlc,vlc-3.1.0,201,14,6.97
+Vlc,vlc-3.1.2,201,14,6.97
+Vlc,vlc-3.1.6,201,14,6.97
+Vlc,vlc-3.1.7,201,14,6.97
+Vlc Average,,,,6.275
+Webrtc,webrtc-v0.10.0,130,0,0
+Webrtc,webrtc-v0.11.0,132,0,0
+Webrtc,webrtc-v0.12.0,132,0,0
+Webrtc,webrtc-v0.13.0,140,0,0
+Webrtc,webrtc-v0.2.0,248,0,0
+Webrtc,webrtc-v0.3.0,252,0,0
+Webrtc,webrtc-v0.4.0,264,0,0
+Webrtc,webrtc-v0.6.0,267,0,0
+Webrtc,webrtc-v0.7.0,269,0,0
+Webrtc,webrtc-v0.8.0,129,0,0
+Webrtc Average,,,,0
+Wolfcrypt,wolfcrypt-v1.0.0-stable,75,1,1.33
+Wolfcrypt,wolfcrypt-v1.1.0-stable,79,1,1.27
+Wolfcrypt,wolfcrypt-v1.2.0-stable,79,1,1.27
+Wolfcrypt,wolfcrypt-v1.3.0-stable,79,1,1.27
+Wolfcrypt,wolfcrypt-v1.5.0-stable,81,1,1.23
+Wolfcrypt,wolfcrypt-v1.6.0-stable,90,1,1.11
+Wolfcrypt,wolfcrypt-v1.7.0-stable,94,1,1.06
+Wolfcrypt Average,,,,1.22
+Wolfssl,wolfssl-v1.11.0-stable,113,2,1.77
+Wolfssl,wolfssl-v1.12.0-stable,113,2,1.77
+Wolfssl,wolfssl-v1.12.2,114,2,1.75
+Wolfssl,wolfssl-v1.13.0-stable,124,2,1.61
+Wolfssl,wolfssl-v1.14.0-stable,131,4,3.05
+Wolfssl,wolfssl-v1.4.0-stable,61,2,3.28
+Wolfssl,wolfssl-v1.5.0-stable,104,2,1.92
+Wolfssl,wolfssl-v1.6.0-stable,108,2,1.85
+Wolfssl,wolfssl-v1.8.0-stable,113,2,1.77
+Wolfssl,wolfssl-v1.9.0-stable,113,2,1.77
+Wolfssl Average,,,,2.054
+Zstd-jni,zstd-jni-v0.4.4,4,0,0
+Zstd-jni,zstd-jni-v1.3.0-1,8,6,75
+Zstd-jni,zstd-jni-v1.3.2-2,8,6,75
+Zstd-jni,zstd-jni-v1.3.3-1,9,6,66.67
+Zstd-jni,zstd-jni-v1.3.4-1,10,6,60
+Zstd-jni,zstd-jni-v1.3.4-8,10,6,60
+Zstd-jni,zstd-jni-v1.3.5-3,10,6,60
+Zstd-jni,zstd-jni-v1.3.7-1,10,6,60
+Zstd-jni,zstd-jni-v1.3.8-1,11,6,54.55
+Zstd-jni,zstd-jni-v1.4.0-1,11,7,63.64
+Zstd-jni,zstd-jni-v1.4.2-1,12,7,58.33
+Zstd-jni Average,,,,57.5627272727273
+Grand Average,,,,10.6011038961039

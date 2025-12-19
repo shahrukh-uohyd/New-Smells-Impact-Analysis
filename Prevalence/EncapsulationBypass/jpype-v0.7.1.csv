@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,JNINonPublicFie,org/jpype/classloader/JPypeClassLoader,JPClassLoader::init,JPypeClassLoader,org.jpype.classloader,native/java/org/jpype/classloader/JPypeClassLoader.java,JPypeClassLoader.java

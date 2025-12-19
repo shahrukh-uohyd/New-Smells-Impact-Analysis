@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,Lan,,start,Medialibrary,org.videolan.medialibrary,medialibrary/src/org/videolan/medialibrary/Medialibrary.java,Medialibrary.java
+CS2,Lan,,navigateDvdMenu,VideoPlayerActivity,org.videolan.vlc.gui.video,vlc-android/src/org/videolan/vlc/gui/video/VideoPlayerActivity.java,VideoPlayerActivity.java
